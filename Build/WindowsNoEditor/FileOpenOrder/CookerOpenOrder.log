@@ -36,407 +36,407 @@
 "../../../Engine/Content/BasicShapes/Cone.uexp" 35
 "../../../Engine/Content/BasicShapes/Plane.uasset" 36
 "../../../Engine/Content/BasicShapes/Plane.uexp" 37
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 38
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 39
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 40
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 41
-"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 42
-"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uexp" 43
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 44
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 45
-"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 46
-"../../../Engine/Content/BufferVisualization/Anisotropy.uexp" 47
-"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 48
-"../../../Engine/Content/BufferVisualization/BaseColor.uexp" 49
-"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 50
-"../../../Engine/Content/BufferVisualization/CustomDepth.uexp" 51
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 52
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 53
-"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 54
-"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uexp" 55
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 56
-"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 57
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 58
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 60
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 61
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 62
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 63
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 64
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 65
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 66
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 67
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 68
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uexp" 69
-"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 70
-"../../../Engine/Content/BufferVisualization/CustomStencil.uexp" 71
-"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 72
-"../../../Engine/Content/BufferVisualization/FinalImage.uexp" 73
-"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 74
-"../../../Engine/Content/BufferVisualization/LightingModel.uexp" 75
-"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 76
-"../../../Engine/Content/BufferVisualization/MaterialAO.uexp" 77
-"../../../Engine/Content/BufferVisualization/Metallic.uasset" 78
-"../../../Engine/Content/BufferVisualization/Metallic.uexp" 79
-"../../../Engine/Content/BufferVisualization/Opacity.uasset" 80
-"../../../Engine/Content/BufferVisualization/Opacity.uexp" 81
-"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 82
-"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uexp" 83
-"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 84
-"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uexp" 85
-"../../../Engine/Content/BufferVisualization/Roughness.uasset" 86
-"../../../Engine/Content/BufferVisualization/Roughness.uexp" 87
-"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 88
-"../../../Engine/Content/BufferVisualization/SceneColor.uexp" 89
-"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 90
-"../../../Engine/Content/BufferVisualization/SceneDepth.uexp" 91
-"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 92
-"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uexp" 93
-"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 94
-"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uexp" 95
-"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 96
-"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uexp" 97
-"../../../Engine/Content/BufferVisualization/Specular.uasset" 98
-"../../../Engine/Content/BufferVisualization/Specular.uexp" 99
-"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 100
-"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uexp" 101
-"../../../Engine/Content/BufferVisualization/Velocity.uasset" 102
-"../../../Engine/Content/BufferVisualization/Velocity.uexp" 103
-"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 104
-"../../../Engine/Content/BufferVisualization/WorldNormal.uexp" 105
-"../../../Engine/Content/BufferVisualization/WorldTangent.uasset" 106
-"../../../Engine/Content/BufferVisualization/WorldTangent.uexp" 107
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 108
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 109
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 110
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 111
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 112
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 113
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 114
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uexp" 115
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 116
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uexp" 117
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 118
-"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uexp" 119
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 120
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 121
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 122
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 123
-"../../../Engine/Content/EditorMaterials/Cross.uasset" 124
-"../../../Engine/Content/EditorMaterials/Cross.uexp" 125
-"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 126
-"../../../Engine/Content/EditorMaterials/Cross_Mat.uexp" 127
-"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 128
-"../../../Engine/Content/EditorResources/T_EditorHelp.uexp" 129
-"../../../Engine/Content/EditorResources/T_EditorHelp.ubulk" 130
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 131
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uexp" 132
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 133
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uexp" 134
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 135
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uexp" 136
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.ubulk" 137
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 138
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uexp" 139
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 140
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 141
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 142
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 143
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 144
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 145
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 146
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 147
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uexp" 148
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 149
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uexp" 150
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 151
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uexp" 152
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 153
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uexp" 154
-"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 155
-"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uexp" 156
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 157
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 158
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 159
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 160
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 161
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 162
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 163
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uexp" 164
-"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 165
-"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uexp" 166
-"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 167
-"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uexp" 168
-"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 169
-"../../../Engine/Content/EditorMaterials/TilingAAGrid.uexp" 170
-"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 171
-"../../../Engine/Content/EditorMaterials/TilingAADots.uexp" 172
-"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 173
-"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uexp" 174
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 175
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uexp" 176
-"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 177
-"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uexp" 178
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 179
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uexp" 180
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 181
-"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uexp" 182
-"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 183
-"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uexp" 184
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 185
-"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uexp" 186
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 187
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 188
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 189
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 190
-"../../../Engine/Content/EngineMaterials/Grid.uasset" 191
-"../../../Engine/Content/EngineMaterials/Grid.uexp" 192
-"../../../Engine/Content/EngineMaterials/Grid.ubulk" 193
-"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 194
-"../../../Engine/Content/EditorResources/TilePatine_N.uexp" 195
-"../../../Engine/Content/EditorResources/TilePatine_N.ubulk" 196
-"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 197
-"../../../Engine/Content/EditorResources/TilePatine_D.uexp" 198
-"../../../Engine/Content/EditorResources/TilePatine_D.ubulk" 199
-"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 200
-"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uexp" 201
-"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 202
-"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uexp" 203
-"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 204
-"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uexp" 205
-"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 206
-"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uexp" 207
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 208
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 209
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 210
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 211
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 212
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 213
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 214
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 215
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 216
-"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 217
-"../../../Engine/Content/EditorMaterials/TargetIcon.uexp" 218
-"../../../Engine/Content/EditorMaterials/TargetIcon.ubulk" 219
-"../../../Engine/Content/EditorMaterials/Tick.uasset" 220
-"../../../Engine/Content/EditorMaterials/Tick.uexp" 221
-"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 222
-"../../../Engine/Content/EditorMaterials/Tick_Mat.uexp" 223
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 224
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uexp" 225
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.ubulk" 226
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 227
-"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uexp" 228
-"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 229
-"../../../Engine/Content/EditorMaterials/WidgetMaterial.uexp" 230
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 231
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uexp" 232
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 233
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uexp" 234
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 235
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uexp" 236
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 237
-"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uexp" 238
-"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 239
-"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uexp" 240
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 241
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 242
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 243
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 244
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 245
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 246
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 247
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 248
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 249
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 250
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 251
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 252
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 253
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 254
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 255
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 256
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 257
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 258
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 259
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 260
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 261
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 262
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 263
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 264
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 265
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 266
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 267
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 268
-"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 269
-"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uexp" 270
-"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 271
-"../../../Engine/Content/EditorMeshes/EditorCube.uexp" 272
-"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 273
-"../../../Engine/Content/EditorMeshes/EditorCylinder.uexp" 274
-"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 275
-"../../../Engine/Content/EditorMeshes/EditorPlane.uexp" 276
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 277
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 278
-"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 279
-"../../../Engine/Content/EditorMeshes/EditorSkySphere.uexp" 280
-"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 281
-"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 282
-"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 283
-"../../../Engine/Content/EditorResources/MatineeCam_D.uexp" 284
-"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 285
-"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uexp" 286
-"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 287
-"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uexp" 288
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 289
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 290
-"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 291
-"../../../Engine/Content/EditorMaterials/GridMaterial.uexp" 292
-"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 293
-"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uexp" 294
-"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 295
-"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uexp" 296
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 297
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uexp" 298
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 299
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uexp" 300
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 301
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 302
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 303
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uexp" 304
-"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 305
-"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uexp" 306
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 307
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 308
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 309
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 310
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 311
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 312
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 313
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 314
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 315
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 316
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 317
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 318
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 319
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 320
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 321
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 322
-"../../../Engine/Content/EditorResources/Bad.uasset" 323
-"../../../Engine/Content/EditorResources/Bad.uexp" 324
-"../../../Engine/Content/EditorResources/Bad.ubulk" 325
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 326
-"../../../Engine/Content/EditorResources/BSPVertex.uexp" 327
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 328
-"../../../Engine/Content/EditorResources/EmptyActor.uexp" 329
-"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 330
-"../../../Engine/Content/EditorResources/MatInstActSprite.uexp" 331
-"../../../Engine/Content/EditorResources/MatInstActSprite.ubulk" 332
-"../../../Engine/Content/EditorResources/SceneManager.uasset" 333
-"../../../Engine/Content/EditorResources/SceneManager.uexp" 334
-"../../../Engine/Content/EditorResources/SceneManager.ubulk" 335
-"../../../Engine/Content/EditorResources/SmallFont.uasset" 336
-"../../../Engine/Content/EditorResources/SmallFont.uexp" 337
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 338
-"../../../Engine/Content/EditorResources/S_Actor.uexp" 339
-"../../../Engine/Content/EditorResources/S_Actor.ubulk" 340
-"../../../Engine/Content/EditorResources/S_CameraShakeSource.uasset" 341
-"../../../Engine/Content/EditorResources/S_CameraShakeSource.uexp" 342
-"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 343
-"../../../Engine/Content/EditorResources/S_DecalActorIcon.uexp" 344
-"../../../Engine/Content/EditorResources/S_DecalActorIcon.ubulk" 345
-"../../../Engine/Content/EditorResources/S_Emitter.uasset" 346
-"../../../Engine/Content/EditorResources/S_Emitter.uexp" 347
-"../../../Engine/Content/EditorResources/S_Emitter.ubulk" 348
-"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 349
-"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uexp" 350
-"../../../Engine/Content/EditorResources/S_ExpoHeightFog.ubulk" 351
-"../../../Engine/Content/EditorResources/S_FTest.uasset" 352
-"../../../Engine/Content/EditorResources/S_FTest.uexp" 353
-"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 354
-"../../../Engine/Content/EditorResources/S_KBSJoint.uexp" 355
-"../../../Engine/Content/EditorResources/S_KBSJoint.ubulk" 356
-"../../../Engine/Content/EditorResources/S_KHinge.uasset" 357
-"../../../Engine/Content/EditorResources/S_KHinge.uexp" 358
-"../../../Engine/Content/EditorResources/S_KHinge.ubulk" 359
-"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 360
-"../../../Engine/Content/EditorResources/S_KPrismatic.uexp" 361
-"../../../Engine/Content/EditorResources/S_KPrismatic.ubulk" 362
-"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 363
-"../../../Engine/Content/EditorResources/S_LevelSequence.uexp" 364
-"../../../Engine/Content/EditorResources/S_LevelSequence.ubulk" 365
-"../../../Engine/Content/EditorResources/S_NavP.uasset" 366
-"../../../Engine/Content/EditorResources/S_NavP.uexp" 367
-"../../../Engine/Content/EditorResources/S_NavP.ubulk" 368
-"../../../Engine/Content/EditorResources/S_Note.uasset" 369
-"../../../Engine/Content/EditorResources/S_Note.uexp" 370
-"../../../Engine/Content/EditorResources/S_Note.ubulk" 371
-"../../../Engine/Content/EditorResources/S_Player.uasset" 372
-"../../../Engine/Content/EditorResources/S_Player.uexp" 373
-"../../../Engine/Content/EditorResources/S_Player.ubulk" 374
-"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 375
-"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uexp" 376
-"../../../Engine/Content/EditorResources/S_PortalActorIcon2.ubulk" 377
-"../../../Engine/Content/EditorResources/S_RadForce.uasset" 378
-"../../../Engine/Content/EditorResources/S_RadForce.uexp" 379
-"../../../Engine/Content/EditorResources/S_RadForce.ubulk" 380
-"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 381
-"../../../Engine/Content/EditorResources/S_ReflActorIcon.uexp" 382
-"../../../Engine/Content/EditorResources/S_ReflActorIcon.ubulk" 383
-"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uasset" 384
-"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uexp" 385
-"../../../Engine/Content/EditorResources/S_SkyAtmosphere.ubulk" 386
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 387
-"../../../Engine/Content/EditorResources/S_Solver.uexp" 388
-"../../../Engine/Content/EditorResources/S_Solver.ubulk" 389
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 390
-"../../../Engine/Content/EditorResources/S_Terrain.uexp" 391
-"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 392
-"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 393
-"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uexp" 394
-"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.ubulk" 395
-"../../../Engine/Content/EditorResources/S_Thruster.uasset" 396
-"../../../Engine/Content/EditorResources/S_Thruster.uexp" 397
-"../../../Engine/Content/EditorResources/S_Thruster.ubulk" 398
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 399
-"../../../Engine/Content/EditorResources/S_Trigger.uexp" 400
-"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 401
-"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 402
-"../../../Engine/Content/EditorResources/S_VectorFieldVol.uexp" 403
-"../../../Engine/Content/EditorResources/S_VectorFieldVol.ubulk" 404
-"../../../Engine/Content/EditorResources/S_VolumetricCloud.uasset" 405
-"../../../Engine/Content/EditorResources/S_VolumetricCloud.uexp" 406
-"../../../Engine/Content/EditorResources/S_VolumetricCloud.ubulk" 407
-"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 408
-"../../../Engine/Content/EditorResources/S_WindDirectional.uexp" 409
-"../../../Engine/Content/EditorResources/S_WindDirectional.ubulk" 410
-"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 411
-"../../../Engine/Content/EditorResources/AI/S_NavLink.uexp" 412
-"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 413
-"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uexp" 414
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 415
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uexp" 416
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 417
-"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uexp" 418
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 419
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 420
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 421
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uexp" 422
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 423
-"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uexp" 424
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 425
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uexp" 426
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 427
-"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uexp" 428
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 429
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 430
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 431
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 432
-"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 433
-"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uexp" 434
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 435
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uexp" 436
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 437
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uexp" 438
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 38
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 39
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 40
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uexp" 41
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 42
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 43
+"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 44
+"../../../Engine/Content/BufferVisualization/Anisotropy.uexp" 45
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 46
+"../../../Engine/Content/BufferVisualization/BaseColor.uexp" 47
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 48
+"../../../Engine/Content/BufferVisualization/CustomDepth.uexp" 49
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 51
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 52
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uexp" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 55
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 56
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 57
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 58
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 59
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uexp" 65
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 66
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 67
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 68
+"../../../Engine/Content/BufferVisualization/CustomStencil.uexp" 69
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 70
+"../../../Engine/Content/BufferVisualization/FinalImage.uexp" 71
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 72
+"../../../Engine/Content/BufferVisualization/LightingModel.uexp" 73
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 74
+"../../../Engine/Content/BufferVisualization/MaterialAO.uexp" 75
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 76
+"../../../Engine/Content/BufferVisualization/Metallic.uexp" 77
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 78
+"../../../Engine/Content/BufferVisualization/Opacity.uexp" 79
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 80
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uexp" 81
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 82
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uexp" 83
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 84
+"../../../Engine/Content/BufferVisualization/Roughness.uexp" 85
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 86
+"../../../Engine/Content/BufferVisualization/SceneColor.uexp" 87
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 88
+"../../../Engine/Content/BufferVisualization/SceneDepth.uexp" 89
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 90
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uexp" 91
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 92
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uexp" 93
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 94
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uexp" 95
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 96
+"../../../Engine/Content/BufferVisualization/Specular.uexp" 97
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 98
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uexp" 99
+"../../../Engine/Content/BufferVisualization/Velocity.uasset" 100
+"../../../Engine/Content/BufferVisualization/Velocity.uexp" 101
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 102
+"../../../Engine/Content/BufferVisualization/WorldNormal.uexp" 103
+"../../../Engine/Content/BufferVisualization/WorldTangent.uasset" 104
+"../../../Engine/Content/BufferVisualization/WorldTangent.uexp" 105
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 106
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 107
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 108
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 109
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 110
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 111
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 112
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uexp" 113
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 114
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uexp" 115
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 116
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uexp" 117
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 118
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 119
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 120
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 121
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 122
+"../../../Engine/Content/EditorMaterials/Cross.uexp" 123
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 124
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uexp" 125
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 126
+"../../../Engine/Content/EditorResources/T_EditorHelp.uexp" 127
+"../../../Engine/Content/EditorResources/T_EditorHelp.ubulk" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uexp" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uexp" 132
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 133
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 134
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 135
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 138
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uexp" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uexp" 141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 143
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 144
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uexp" 145
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 146
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uexp" 147
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 148
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uexp" 149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.ubulk" 150
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 151
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uexp" 152
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 153
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uexp" 154
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 155
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 156
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 157
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uexp" 158
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 159
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uexp" 160
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 161
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uexp" 162
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 163
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uexp" 164
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 165
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uexp" 166
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 167
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uexp" 168
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 169
+"../../../Engine/Content/EditorMaterials/TilingAADots.uexp" 170
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 171
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uexp" 172
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 173
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uexp" 174
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 175
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uexp" 176
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 177
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uexp" 178
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 179
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uexp" 180
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 181
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uexp" 182
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 183
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uexp" 184
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 185
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 186
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 187
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 188
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 189
+"../../../Engine/Content/EngineMaterials/Grid.uexp" 190
+"../../../Engine/Content/EngineMaterials/Grid.ubulk" 191
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 192
+"../../../Engine/Content/EditorResources/TilePatine_N.uexp" 193
+"../../../Engine/Content/EditorResources/TilePatine_N.ubulk" 194
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 195
+"../../../Engine/Content/EditorResources/TilePatine_D.uexp" 196
+"../../../Engine/Content/EditorResources/TilePatine_D.ubulk" 197
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 198
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uexp" 199
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 200
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uexp" 201
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 202
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uexp" 203
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 204
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uexp" 205
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 206
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 207
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 208
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 209
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 210
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 211
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 212
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 213
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 214
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 215
+"../../../Engine/Content/EditorMaterials/TargetIcon.uexp" 216
+"../../../Engine/Content/EditorMaterials/TargetIcon.ubulk" 217
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 218
+"../../../Engine/Content/EditorMaterials/Tick.uexp" 219
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 220
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uexp" 221
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 222
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uexp" 223
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.ubulk" 224
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 225
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uexp" 226
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 227
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uexp" 228
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 229
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uexp" 230
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 231
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uexp" 232
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 233
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uexp" 234
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 235
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uexp" 236
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 237
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uexp" 238
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 239
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 240
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 241
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 242
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 243
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 244
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 245
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 249
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 250
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 251
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 252
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 253
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 254
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 255
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 256
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 257
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 258
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 259
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 260
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 261
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 262
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 263
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 264
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 265
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 266
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 267
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uexp" 268
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 269
+"../../../Engine/Content/EditorMeshes/EditorCube.uexp" 270
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 271
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uexp" 272
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 273
+"../../../Engine/Content/EditorMeshes/EditorPlane.uexp" 274
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 275
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 276
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 277
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uexp" 278
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 279
+"../../../Engine/Content/EditorMeshes/EditorSphere.uexp" 280
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 281
+"../../../Engine/Content/EditorResources/MatineeCam_D.uexp" 282
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 283
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uexp" 284
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 285
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uexp" 286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 288
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 289
+"../../../Engine/Content/EditorMaterials/GridMaterial.uexp" 290
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 291
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uexp" 292
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 293
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uexp" 294
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 295
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uexp" 296
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 297
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uexp" 298
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 299
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 300
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 301
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uexp" 302
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 303
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uexp" 304
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 305
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 306
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 307
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 308
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 309
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 310
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 311
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 312
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 313
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 314
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 315
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 316
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 317
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 318
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 319
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 320
+"../../../Engine/Content/EditorResources/Bad.uasset" 321
+"../../../Engine/Content/EditorResources/Bad.uexp" 322
+"../../../Engine/Content/EditorResources/Bad.ubulk" 323
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 324
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 325
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 326
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 327
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 328
+"../../../Engine/Content/EditorResources/MatInstActSprite.uexp" 329
+"../../../Engine/Content/EditorResources/MatInstActSprite.ubulk" 330
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 331
+"../../../Engine/Content/EditorResources/SceneManager.uexp" 332
+"../../../Engine/Content/EditorResources/SceneManager.ubulk" 333
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 334
+"../../../Engine/Content/EditorResources/SmallFont.uexp" 335
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 336
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 337
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 338
+"../../../Engine/Content/EditorResources/S_CameraShakeSource.uasset" 339
+"../../../Engine/Content/EditorResources/S_CameraShakeSource.uexp" 340
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 341
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uexp" 342
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.ubulk" 343
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 344
+"../../../Engine/Content/EditorResources/S_Emitter.uexp" 345
+"../../../Engine/Content/EditorResources/S_Emitter.ubulk" 346
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 347
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uexp" 348
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.ubulk" 349
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 350
+"../../../Engine/Content/EditorResources/S_FTest.uexp" 351
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 352
+"../../../Engine/Content/EditorResources/S_KBSJoint.uexp" 353
+"../../../Engine/Content/EditorResources/S_KBSJoint.ubulk" 354
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 355
+"../../../Engine/Content/EditorResources/S_KHinge.uexp" 356
+"../../../Engine/Content/EditorResources/S_KHinge.ubulk" 357
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 358
+"../../../Engine/Content/EditorResources/S_KPrismatic.uexp" 359
+"../../../Engine/Content/EditorResources/S_KPrismatic.ubulk" 360
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 361
+"../../../Engine/Content/EditorResources/S_LevelSequence.uexp" 362
+"../../../Engine/Content/EditorResources/S_LevelSequence.ubulk" 363
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 364
+"../../../Engine/Content/EditorResources/S_NavP.uexp" 365
+"../../../Engine/Content/EditorResources/S_NavP.ubulk" 366
+"../../../Engine/Content/EditorResources/S_Note.uasset" 367
+"../../../Engine/Content/EditorResources/S_Note.uexp" 368
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 369
+"../../../Engine/Content/EditorResources/S_Player.uasset" 370
+"../../../Engine/Content/EditorResources/S_Player.uexp" 371
+"../../../Engine/Content/EditorResources/S_Player.ubulk" 372
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 373
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uexp" 374
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.ubulk" 375
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 376
+"../../../Engine/Content/EditorResources/S_RadForce.uexp" 377
+"../../../Engine/Content/EditorResources/S_RadForce.ubulk" 378
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 379
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uexp" 380
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.ubulk" 381
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uasset" 382
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.uexp" 383
+"../../../Engine/Content/EditorResources/S_SkyAtmosphere.ubulk" 384
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 385
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 386
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 387
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 388
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 389
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 390
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 391
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uexp" 392
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.ubulk" 393
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 394
+"../../../Engine/Content/EditorResources/S_Thruster.uexp" 395
+"../../../Engine/Content/EditorResources/S_Thruster.ubulk" 396
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 397
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 398
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 399
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 400
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uexp" 401
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.ubulk" 402
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.uasset" 403
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.uexp" 404
+"../../../Engine/Content/EditorResources/S_VolumetricCloud.ubulk" 405
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 406
+"../../../Engine/Content/EditorResources/S_WindDirectional.uexp" 407
+"../../../Engine/Content/EditorResources/S_WindDirectional.ubulk" 408
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 409
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uexp" 410
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 411
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uexp" 412
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 413
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uexp" 414
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 415
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uexp" 416
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 417
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 418
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 419
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uexp" 420
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 421
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uexp" 422
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 423
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uexp" 424
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 425
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uexp" 426
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 427
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 428
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 429
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 430
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 431
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uexp" 432
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 433
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uexp" 434
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 435
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uexp" 436
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 437
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uexp" 438
 "../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 439
 "../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 440
 "../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 441
@@ -465,10 +465,10 @@
 "../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uexp" 464
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 465
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 466
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 467
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 468
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 469
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 470
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 467
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 468
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 469
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 470
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 471
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 472
 "../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 473
@@ -605,10 +605,10 @@
 "../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 604
 "../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 605
 "../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 606
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 607
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uexp" 608
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 609
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uasset" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/sRGBToLinear.uexp" 610
 "../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uasset" 611
 "../../../Engine/Content/EngineMaterials/Widget3DCameraPassThrough_Opaque_OneSided.uexp" 612
 "../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 613
@@ -718,13 +718,13 @@
 "../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 717
 "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 718
 "../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uexp" 719
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 720
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 721
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 722
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 723
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 724
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 725
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 726
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 720
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 721
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 722
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 723
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 724
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 725
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 726
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 727
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 728
 "../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 729
@@ -756,21 +756,21 @@
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 755
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 756
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 757
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 758
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 759
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 760
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 761
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 762
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 763
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 764
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 765
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 766
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 767
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 768
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 769
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 770
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 771
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 772
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 758
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 759
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 760
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 761
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 762
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 763
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 764
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 765
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 766
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 767
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 768
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 769
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 770
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 771
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 772
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 773
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 774
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 775
@@ -984,14 +984,14 @@
 "../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 983
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 984
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 985
-"../../../Engine/Content/EngineResources/Black.uasset" 986
-"../../../Engine/Content/EngineResources/Black.uexp" 987
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 988
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 989
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 990
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 991
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 992
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 993
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 986
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 987
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 988
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 989
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 990
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 991
+"../../../Engine/Content/EngineResources/Black.uasset" 992
+"../../../Engine/Content/EngineResources/Black.uexp" 993
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 994
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 995
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 996
@@ -1119,348 +1119,417 @@
 "C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/TitleUI.uexp" 1118
 "C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/TitleScreen.uexp" 1119
 "C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/TitleScreen.umap" 1120
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1121
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1122
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1123
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1124
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1125
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1126
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1127
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1128
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1129
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1130
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1131
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1132
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1133
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1134
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1135
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1136
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1137
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1138
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1139
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1140
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1141
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1142
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1143
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart_BuiltData.uasset" 1144
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart_BuiltData.uexp" 1145
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart_BuiltData.ubulk" 1146
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1147
-"../../../Engine/Content/BasicShapes/Cube.uexp" 1148
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1149
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1150
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial.uasset" 1151
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial.uexp" 1152
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/1M_Cube.uasset" 1153
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/1M_Cube.uexp" 1154
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient2.uasset" 1155
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient2.uexp" 1156
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient1.uasset" 1157
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient1.uexp" 1158
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_W.uasset" 1159
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_W.uexp" 1160
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_S.uasset" 1161
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_S.uexp" 1162
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_N.uasset" 1163
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_N.uexp" 1164
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_E.uasset" 1165
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/RoomEnd1_E.uexp" 1166
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_NWES.uasset" 1167
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_NWES.uexp" 1168
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial2.uasset" 1169
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial2.uexp" 1170
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 1171
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Textures/FirstPersonCrosshair.uexp" 1172
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1173
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uexp" 1174
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 1175
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uexp" 1176
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1177
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 1178
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 1179
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uexp" 1180
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/M_HitCircle.uasset" 1181
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/M_HitCircle.uexp" 1182
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/MI_HitCircle.uasset" 1183
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/MI_HitCircle.uexp" 1184
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Widgets/WBP_Hit.uasset" 1185
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Widgets/WBP_Hit.uexp" 1186
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/squirt1.uasset" 1187
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/squirt1.uexp" 1188
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/SquirtSounds.uasset" 1189
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/SquirtSounds.uexp" 1190
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1191
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1192
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 1193
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 1194
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1195
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 1196
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_N.uasset" 1197
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_N.uexp" 1198
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 1199
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_M.uasset" 1200
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_M.uexp" 1201
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 1202
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1203
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1204
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1205
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1206
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1207
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1208
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1209
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1210
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1211
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1212
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1213
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1214
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1215
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1216
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1217
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 1218
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1219
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1220
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1221
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1222
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1223
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1224
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1225
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1226
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/M_FPGun.uasset" 1227
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/M_FPGun.uexp" 1228
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1229
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1230
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID___.uasset" 1231
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID___.uexp" 1232
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID___.ufont" 1233
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID____Font.uasset" 1234
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID____Font.uexp" 1235
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/headicon.uasset" 1236
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/headicon.uexp" 1237
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/headicon.ubulk" 1238
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/UI_HealthBar.uasset" 1239
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/UI_HealthBar.uexp" 1240
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 1241
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 1242
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1243
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 1244
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 1245
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 1246
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 1247
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 1248
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1249
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1250
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1251
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1252
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1253
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1254
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1255
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1256
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 1257
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 1258
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 1259
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1260
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 1261
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1262
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1263
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1264
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1265
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1266
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1267
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1268
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1269
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1270
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1271
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 1272
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uexp" 1273
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 1274
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 1275
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 1276
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uexp" 1277
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 1278
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 1279
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 1280
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 1281
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 1282
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 1283
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 1284
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 1285
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1286
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 1287
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 1288
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 1289
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 1290
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Fire.uexp" 1291
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 1292
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPersonFire_Montage.uexp" 1293
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 1294
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 1295
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 1296
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 1297
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 1298
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 1299
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 1300
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 1301
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 1302
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 1303
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 1304
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 1305
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 1306
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uexp" 1307
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 1308
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 1309
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 1310
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 1311
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 1312
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 1313
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 1314
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 1315
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1316
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 1317
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 1318
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 1319
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 1320
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 1321
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 1322
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 1323
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 1324
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 1325
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 1326
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 1327
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 1328
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 1329
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 1330
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 1331
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 1332
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 1333
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 1334
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 1335
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 1336
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 1337
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 1338
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uexp" 1339
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 1340
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 1341
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 1342
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 1343
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 1344
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 1345
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 1346
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp" 1347
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 1348
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 1349
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 1350
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uexp" 1351
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 1352
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 1353
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 1354
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 1355
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 1356
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 1357
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 1358
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 1359
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 1360
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uexp" 1361
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 1362
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uexp" 1363
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 1364
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 1365
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 1366
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uexp" 1367
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 1368
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uexp" 1369
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 1370
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 1371
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 1372
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uexp" 1373
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 1374
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 1375
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 1376
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uexp" 1377
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 1378
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 1379
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 1380
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 1381
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 1382
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 1383
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 1384
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uexp" 1385
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 1386
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 1387
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 1388
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 1389
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 1390
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 1391
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 1392
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 1393
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 1394
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 1395
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 1396
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 1397
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 1398
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 1399
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 1400
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 1401
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 1402
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 1403
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 1404
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 1405
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 1406
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 1407
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 1408
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 1409
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 1410
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uexp" 1411
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 1412
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 1413
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 1414
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 1415
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 1416
-"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 1417
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Effects/DeathSystem.uasset" 1418
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Effects/DeathSystem.uexp" 1419
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/ant_lowMat.uasset" 1420
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/ant_lowMat.uexp" 1421
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/uploads_files_3074701_ant.uasset" 1422
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/uploads_files_3074701_ant.uexp" 1423
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Smoothness_AO.uasset" 1424
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Smoothness_AO.uexp" 1425
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Smoothness_AO.ubulk" 1426
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Normal.uasset" 1427
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Normal.uexp" 1428
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Normal.ubulk" 1429
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Emissive.uasset" 1430
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Emissive.uexp" 1431
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Emissive.ubulk" 1432
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Albedo.uasset" 1433
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Albedo.uexp" 1434
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Albedo.ubulk" 1435
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/Ant.uasset" 1436
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/Ant.uexp" 1437
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Charger.uasset" 1438
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Charger.uexp" 1439
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/BaseMaterial.uasset" 1440
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/BaseMaterial.uexp" 1441
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 1442
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uexp" 1443
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 1444
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uexp" 1445
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectileMaterial.uasset" 1446
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectileMaterial.uexp" 1447
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectile.uasset" 1448
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectile.uexp" 1449
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Turret.uasset" 1450
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Turret.uexp" 1451
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_PatrolAndShoot.uasset" 1452
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_PatrolAndShoot.uexp" 1453
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/FirstPersonProjectile.uasset" 1454
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/FirstPersonProjectile.uexp" 1455
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 1456
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 1457
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 1458
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 1459
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sequences/MyLevelSequence.uasset" 1460
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sequences/MyLevelSequence.uexp" 1461
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_EndLevelDoor.uasset" 1462
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_EndLevelDoor.uexp" 1463
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart.uexp" 1464
-"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart.umap" 1465
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart_BuiltData.uasset" 1121
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart_BuiltData.uexp" 1122
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart_BuiltData.ubulk" 1123
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1124
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1125
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/GlowingMaster.uasset" 1126
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/GlowingMaster.uexp" 1127
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/YellowGlow_3.uasset" 1128
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/YellowGlow_3.uexp" 1129
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID___.uasset" 1130
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID___.uexp" 1131
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID___.ufont" 1132
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID____Font.uasset" 1133
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Fonts/DROID____Font.uexp" 1134
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Widgets/PauseMenu.uasset" 1135
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Widgets/PauseMenu.uexp" 1136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uasset" 1137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorToRadialValue.uexp" 1138
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 1139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uexp" 1140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 1141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uexp" 1142
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/M_HitCircle.uasset" 1143
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/M_HitCircle.uexp" 1144
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/MI_HitCircle.uasset" 1145
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/MI_HitCircle.uexp" 1146
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Widgets/WBP_Hit.uasset" 1147
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Widgets/WBP_Hit.uexp" 1148
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/squirt1.uasset" 1149
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/squirt1.uexp" 1150
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/SquirtSounds.uasset" 1151
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sounds/SquirtSounds.uexp" 1152
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/UI_PowerUp.uasset" 1153
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/UI_PowerUp.uexp" 1154
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1155
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1156
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1157
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1158
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/BaseMaterial.uasset" 1159
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/BaseMaterial.uexp" 1160
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 1161
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uexp" 1162
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 1163
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uexp" 1164
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectileMaterial.uasset" 1165
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectileMaterial.uexp" 1166
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectile.uasset" 1167
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/EnemyProjectile.uexp" 1168
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/ant_lowMat.uasset" 1169
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/ant_lowMat.uexp" 1170
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/uploads_files_3074701_ant.uasset" 1171
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/uploads_files_3074701_ant.uexp" 1172
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Smoothness_AO.uasset" 1173
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Smoothness_AO.uexp" 1174
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Smoothness_AO.ubulk" 1175
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Normal.uasset" 1176
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Normal.uexp" 1177
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Normal.ubulk" 1178
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Emissive.uasset" 1179
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Emissive.uexp" 1180
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Emissive.ubulk" 1181
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Albedo.uasset" 1182
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Albedo.uexp" 1183
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/ant_Albedo.ubulk" 1184
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/Ant.uasset" 1185
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Objects/Textures/Ant.uexp" 1186
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sequences/MyLevelSequence.uasset" 1187
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Sequences/MyLevelSequence.uexp" 1188
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_EndLevelDoor.uasset" 1189
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_EndLevelDoor.uexp" 1190
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Boss1.uasset" 1191
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Boss1.uexp" 1192
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 1193
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 1194
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 1195
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 1196
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 1197
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uexp" 1198
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 1199
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uexp" 1200
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 1201
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 1202
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 1203
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 1204
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uasset" 1205
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraMassByVolume.uexp" 1206
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 1207
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 1208
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 1209
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uexp" 1210
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 1211
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 1212
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 1213
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 1214
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 1215
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 1216
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 1217
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 1218
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 1219
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 1220
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 1221
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 1222
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 1223
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 1224
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 1225
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 1226
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 1227
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 1228
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 1229
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 1230
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 1231
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 1232
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uasset" 1233
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/SpriteRenderer/ENiagara_ScaleSpriteSize.uexp" 1234
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 1235
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uexp" 1236
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uasset" 1237
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Mass/CalculateSizeAndRotationalInertiaByMass.uexp" 1238
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 1239
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 1240
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 1241
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 1242
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 1243
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 1244
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uasset" 1245
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/GravityForce.uexp" 1246
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 1247
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uexp" 1248
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 1249
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uexp" 1250
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 1251
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 1252
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 1253
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 1254
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 1255
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 1256
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 1257
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 1258
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uasset" 1259
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomUnitVector.uexp" 1260
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 1261
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomVector.uexp" 1262
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 1263
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 1264
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uasset" 1265
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizeDistanceRange.uexp" 1266
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uasset" 1267
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DistanceBasedFalloff.uexp" 1268
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 1269
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 1270
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uasset" 1271
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityFromPoint.uexp" 1272
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 1273
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 1274
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 1275
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uexp" 1276
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 1277
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 1278
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 1279
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 1280
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 1281
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uexp" 1282
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 1283
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uexp" 1284
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 1285
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 1286
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 1287
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 1288
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 1289
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 1290
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 1291
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 1292
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 1293
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 1294
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 1295
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 1296
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 1297
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 1298
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 1299
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 1300
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 1301
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 1302
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 1303
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 1304
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 1305
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 1306
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 1307
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 1308
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uasset" 1309
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/V2/RandomRangeFloat.uexp" 1310
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 1311
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uexp" 1312
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 1313
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 1314
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 1315
+"../../../Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uexp" 1316
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Effects/DeathSystem.uasset" 1317
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Effects/DeathSystem.uexp" 1318
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Charger.uasset" 1319
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Charger.uexp" 1320
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Turret.uasset" 1321
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_Turret.uexp" 1322
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_PatrolAndShoot.uasset" 1323
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/BP_Enemy_PatrolAndShoot.uexp" 1324
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/FirstPersonProjectile.uasset" 1325
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/FirstPersonProjectile.uexp" 1326
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 1327
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uexp" 1328
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 1329
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Run.uexp" 1330
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 1331
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpStart.uexp" 1332
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 1333
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uexp" 1334
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 1335
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uexp" 1336
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 1337
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Idle.uexp" 1338
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 1339
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_AnimBP.uexp" 1340
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 1341
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPerson_Fire.uexp" 1342
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 1343
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Animations/FirstPersonFire_Montage.uexp" 1344
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1345
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1346
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 1347
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uexp" 1348
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_N.uasset" 1349
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_N.uexp" 1350
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 1351
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_M.uasset" 1352
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_M.uexp" 1353
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 1354
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1355
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1356
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1357
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1358
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1359
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1360
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1361
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1362
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1363
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1364
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1365
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1366
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1367
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1368
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1369
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 1370
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1371
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1372
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1373
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1374
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1375
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1376
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 1377
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 1378
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1379
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1380
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/M_FPGun.uasset" 1381
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Materials/M_FPGun.uexp" 1382
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1383
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1384
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/headicon.uasset" 1385
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/headicon.uexp" 1386
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/headicon.ubulk" 1387
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/UI_HealthBar.uasset" 1388
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/UI_HealthBar.uexp" 1389
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1390
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1391
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1392
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1393
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1394
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1395
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1396
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1397
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1398
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1399
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 1400
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 1401
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 1402
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 1403
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uexp" 1404
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.ubulk" 1405
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1406
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1407
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1408
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1409
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1410
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1411
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1412
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1413
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 1414
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uexp" 1415
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.ubulk" 1416
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 1417
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 1418
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 1419
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uexp" 1420
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 1421
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uexp" 1422
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 1423
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uexp" 1424
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset" 1425
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uexp" 1426
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/Powerup3.uasset" 1427
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/Powerup3.uexp" 1428
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient_Powerup3.uasset" 1429
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient_Powerup3.uexp" 1430
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/YellowGlow_2.uasset" 1431
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/YellowGlow_2.uexp" 1432
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/Powerup2.uasset" 1433
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/Powerup2.uexp" 1434
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient_Powerup2.uasset" 1435
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient_Powerup2.uexp" 1436
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/YellowGlow.uasset" 1437
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/YellowGlow.uexp" 1438
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/Powerup1.uasset" 1439
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/Powerup1.uexp" 1440
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient_Powerup1.uasset" 1441
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient_Powerup1.uexp" 1442
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_specular.uasset" 1443
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_specular.uexp" 1444
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_specular.ubulk" 1445
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_color.uasset" 1446
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_color.uexp" 1447
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_color.ubulk" 1448
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_bump.uasset" 1449
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_bump.uexp" 1450
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffel_bump.ubulk" 1451
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/Mystical__tuffles.uasset" 1452
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/Mystical__tuffles.uexp" 1453
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffles.uasset" 1454
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/mystical_truffles/mystical_truffles.uexp" 1455
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/GlowMushroom.uasset" 1456
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Blueprints/GlowMushroom.uexp" 1457
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_opacity.uasset" 1458
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_opacity.uexp" 1459
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_opacity.ubulk" 1460
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_normal.uasset" 1461
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_normal.uexp" 1462
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_normal.ubulk" 1463
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_height.uasset" 1464
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_height.uexp" 1465
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_height.ubulk" 1466
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_emissive.uasset" 1467
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_emissive.uexp" 1468
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_emissive.ubulk" 1469
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_basecolor.uasset" 1470
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_basecolor.uexp" 1471
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRoughGreyLichenRock_basecolor.ubulk" 1472
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRough.uasset" 1473
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/TexasRough.uexp" 1474
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial.uasset" 1475
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial.uexp" 1476
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/1M_Cube.uasset" 1477
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/1M_Cube.uexp" 1478
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient2.uasset" 1479
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient2.uexp" 1480
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient1.uasset" 1481
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_Varient1.uexp" 1482
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_opacity.uasset" 1483
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_opacity.uexp" 1484
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_opacity.ubulk" 1485
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_normal.uasset" 1486
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_normal.uexp" 1487
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_normal.ubulk" 1488
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_height.uasset" 1489
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_height.uexp" 1490
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_height.ubulk" 1491
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_emissive.uasset" 1492
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_emissive.uexp" 1493
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_emissive.ubulk" 1494
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_basecolor.uasset" 1495
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_basecolor.uexp" 1496
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/DystopianWastelandDirt_basecolor.ubulk" 1497
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/WastlandDirt.uasset" 1498
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Materials/WastlandDirt.uexp" 1499
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_NWES.uasset" 1500
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Room_BP/Room1_NWES.uexp" 1501
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial2.uasset" 1502
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Geometry/Meshes/CubeMaterial2.uexp" 1503
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 1504
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPerson/Textures/FirstPersonCrosshair.uexp" 1505
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uasset" 1506
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonHUD.uexp" 1507
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset" 1508
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uexp" 1509
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1510
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1511
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1512
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1513
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1514
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1515
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1516
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1517
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1518
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1519
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1520
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1521
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1522
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1523
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1524
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1525
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1526
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1527
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1528
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1529
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1530
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1531
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1532
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart.uexp" 1533
+"C:/Users/derri/Documents/Unreal Projects/GameOffDOA/Content/Levels/GameStart.umap" 1534
